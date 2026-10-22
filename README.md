@@ -129,6 +129,9 @@ If you or a senior family member have been targeted by a financial scam:
 * **National Portal**: [https://cybercrime.gov.in](https://cybercrime.gov.in)
 * **Report Spam Calls & Numbers**: Sanchar Saathi Chakshu Portal ([https://sancharsaathi.gov.in](https://sancharsaathi.gov.in))
 
+Done By:
+Prithish Raj T
+Jegannath G
 ---
 
 ## 📄 License
